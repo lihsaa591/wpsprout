@@ -12,12 +12,12 @@
 		"test:unit": "wp-scripts test-unit-js"
 	},
 	"devDependencies": {
-		"@wordpress/scripts": "^34.2.0",
+		"@wordpress/scripts": "^35.0.0",
 		"typescript": "^6.0.3"
 	},
 	"dependencies": {
-		"@wordpress/api-fetch": "^7.0.0",
-		"@wordpress/components": "^40.0.0",
+		"@wordpress/api-fetch": "^7.55.0",
+		"@wordpress/components": "^40.1.0",
 		"@wordpress/element": "^8.6.0",
 		"@wordpress/i18n": "^6.27.0"
 	}
