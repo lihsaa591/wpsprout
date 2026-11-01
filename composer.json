@@ -27,7 +27,7 @@
 		"league/container": "^5.2"
 	},
 	"require-dev": {
-		"phpunit/phpunit": "^10",
+		"phpunit/phpunit": "^13",
 		"brain/monkey": "^2.6",
 		"php-stubs/wordpress-stubs": "^7.1",
 		"phpcompatibility/phpcompatibility-wp": "^2.1",
